@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61564533877753"],
+    "61551757747742"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
@@ -26,9 +26,9 @@
   "OWNER": "ʬʆʬ Sønïč Shïsûį ʬɸʬ",
   "AGE": "16",
   "GENDER": "MALE",
-  "nickNameBot": "ミ★GTA✄BOT★彡",
-  "FACEBOOK": "https://www.facebook.com/profile.php?id=100090405019929",
-  "prefix": "!",
+  "nickNameBot": "ミ★VOLDIGO✄BOT★彡",
+  "FACEBOOK": "https://www.facebook.com/profile.php?id=61551757747742",
+  "prefix": "@",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
